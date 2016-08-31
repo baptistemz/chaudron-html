@@ -1,0 +1,18 @@
+body {
+  font-family: 'Open sans';
+  color: rgb(30,30,30);
+  background-color: rgb(240,240,240);
+}
+h1, h2, h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #3AC162;
+}
+
+a {
+  color: rgb(180,180,180);
+  text-decoration: none;
+}
+a:hover {
+  color: #3AC162;
+  text-decoration: none;
+}
